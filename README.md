@@ -14,13 +14,16 @@ The file `index.html` contains the html code for the full webpage linked above.
 - `state-level-analysis.ipynb`:
 
 #### The `data` directory
+All the data files that are needed to replicate the analysis in the notebooks. The data comes from [Natureserve](https://explorer.natureserve.org/), [US Fish and Wildlife Services](https://www.fws.gov/species/search) and the [National Inventory of Dams](https://nid.sec.usace.army.mil/#/).
 
 #### The `images` directory
+Images that appear or are related to the article.
 
 #### The `maps` directory
+The QGIS files for the map of endangered species in the southeast.
 
 #### The `shapefiles` directory
-This directory contains shapefiles for the geographical distribution of all federally listed endangered and threatened aquatic species that occur primarily in the southeastern region. All the files are downloaded from the [US Fish and Wildlife Services website](https://www.fws.gov/species/search). 
+The shapefiles for the geographical distribution of all federally listed endangered and threatened aquatic species that occur primarily in the southeastern region. All the files are downloaded from the [US Fish and Wildlife Services website](https://www.fws.gov/species/search). 
 
 #### The `visuals` directory
 
