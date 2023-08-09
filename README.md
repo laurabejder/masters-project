@@ -6,9 +6,18 @@ The result is the article
 
 ## In the repository
 
+The file `index.html` contains the html code for the full webpage linked above.
+
 #### Notebooks
+- `dam-analysis.ipynb`:
+- `species-analysis.ipynb`:
+- `state-level-analysis.ipynb`:
 
 #### The `data` directory
+
+#### The `images` directory
+
+#### The `maps` directory
 
 #### The `shapefiles` directory
 
