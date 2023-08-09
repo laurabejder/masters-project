@@ -4,6 +4,18 @@ This Github repository contains the data, code, html pages and visualizations th
 The result is the article
 [Crisis in the Currents: Alabama’s Tug-of-War for the Future of Freshwater Biodiversity](https://laurabejder.com/masters-project/)
 
+## In the repository
+
+#### Notebooks
+
+#### The `data` directory
+
+#### The `shapefiles` directory
+
+#### The `visuals` directory
+
+
+
 ## Methodology
 
 - freshwater species
