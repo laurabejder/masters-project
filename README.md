@@ -14,7 +14,7 @@ The file `index.html` contains the html code for the full webpage linked above.
 - `state-level-analysis.ipynb`:
 
 #### The `data` directory
-All the data files that are needed to replicate the analysis in the notebooks. The data comes from [Natureserve](https://explorer.natureserve.org/), [US Fish and Wildlife Services](https://www.fws.gov/species/search) and the [National Inventory of Dams](https://nid.sec.usace.army.mil/#/).
+All the data files that are needed to replicate the analysis in the notebooks. The data comes from [Natureserve](https://explorer.natureserve.org/), the [US Fish and Wildlife Services](https://www.fws.gov/species/search) and the [National Inventory of Dams](https://nid.sec.usace.army.mil/#/).
 
 #### The `images` directory
 Images that appear or are related to the article.
