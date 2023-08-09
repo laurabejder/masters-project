@@ -1,5 +1,8 @@
 # masters-project
 
+The result is the article
+[Crisis in the Currents: Alabama’s Tug-of-War for the Future of Freshwater Biodiversity](https://laurabejder.com/masters-project/)
+
 
 ## Methodology
 
