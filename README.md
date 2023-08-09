@@ -20,6 +20,7 @@ The file `index.html` contains the html code for the full webpage linked above.
 #### The `maps` directory
 
 #### The `shapefiles` directory
+This directory contains shapefiles for the geographical distribution of all federally listed endangered and threatened aquatic species that occur primarily in the southeastern region. All the files are downloaded from the [US Fish and Wildlife Services website](https://www.fws.gov/species/search). 
 
 #### The `visuals` directory
 
