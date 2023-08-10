@@ -52,5 +52,8 @@ Instead I decided to use the state rank. But as mentioned before, there was a qu
 
 **Things we and science still don't know**
 
-- Still listing species
-- how updated is the data
+There is still a lot that is unknown about the species and their endangerment. Researchers and scientists are still describing new species and recategorizing others. So the data does not provide a complete picture of the species living in this region.
+
+Moreover, the data on some of the species might not be completely up to date. There are thousands of species to track and only so many researchers to do so, so a species' data is only updated whenever a scientific study or tracking is done. There might be years inbetween. 
+
+In conclusion the data gives us the best but potentially inaccurate picture of the situation of particular species. 
