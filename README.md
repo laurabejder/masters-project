@@ -30,7 +30,9 @@ The shapefiles for the geographical distribution of all federally listed endange
 
 
 ## Methodology
+In this section I explain the methodological choices I have made throughout the project and their limitations and consequences. 
 
+This project deals with freshwater species here defined as the species that by Natureserve was put in the four categories `freshwater fishes`, `freshwater mussels`, `freshwater snails`, and `crayfishes`. 
 - freshwater species
 
 - What is the southeast
