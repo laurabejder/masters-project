@@ -44,12 +44,11 @@ However, there are still vast differences between these states when it comes to 
 
 **How to rank species?**
 
-One big question was how to measure the imperilment of the in the data. Natureserve as well as the state organizations and the US Fish and Wildlife Services have two general measurements: Global Rank (G1-G5) and State Rank (S1-S5). The global rank gives a species the same score all over the globe while the state rank provides different scores based on the endangerment in a particular state. A species can thus in theory be critically imperiled in Georgia but completely secure in Florida (this rarely happens though). 
+One big question was how to measure the imperilment of the species in the data. Natureserve as well as the state organizations and the US Fish and Wildlife Services have two general measurements: Global Rank (G1-G5) and State Rank (S1-S5). The global rank gives a species the same score all over the globe while the state rank provides different scores based on the endangerment in a particular state. A species can thus in theory be critically imperiled in Georgia but completely secure in Florida (this rarely happens though). 
 
 After consulting a row of experts on this, I decided that the Global Rank was too broad to use. Since it is a global rank, it has a tendancy to overestimate the endangerment/imperilment because a species in a global comparison is rare. This would be a problem, since there are high rates of endimism and a lot of rare species in the region.
 
-Instead I decided to use the state rank. But as mentioned before, there is a 
-
+Instead I decided to use the state rank. But as mentioned before, there was a question on ensure that a species is not protrayed as being critically endangered if it is secure an well in other states. From the scientists I was adviced to look at the highest rank (the securer the higher) of the species. So I created a variable `highest_r_rank` which is the highest state rank for each species.
 
 **Things we and science still don't know**
 
