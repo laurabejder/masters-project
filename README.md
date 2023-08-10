@@ -33,8 +33,13 @@ The shapefiles for the geographical distribution of all federally listed endange
 In this section I explain the methodological choices I have made throughout the project and their limitations and consequences. 
 
 This project deals with freshwater species here defined as the species that by Natureserve was put in the four categories `freshwater fishes`, `freshwater mussels`, `freshwater snails`, and `crayfishes`. This means the exclusion of other potential freshwater species (salamanders, snails, shrimps etc.) that weren't put in a clear freshwater category. I decided to limit my research to freshwater species alone because the species and ecosystems are significantly different from saltwater and terrestrial species and because of the unique challenges facing this particular kind of ecosystem. 
-- freshwater species
 
 - What is the southeast
+- states
+- Differences between states (endimism, remaining nature)
 
 - Using the highest S rank (contrary to G rank or normal s rank)
+
+- Things we still don't know
+- Still listing species
+- how updated is the data
