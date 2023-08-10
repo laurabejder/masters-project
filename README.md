@@ -33,17 +33,21 @@ The shapefiles for the geographical distribution of all federally listed endange
 In this section I explain the methodological choices I have made throughout the project and their limitations and consequences. 
 
 **What are freshwater species?**
+
 This project deals with freshwater species here defined as the species that by Natureserve was put in the four categories `freshwater fishes`, `freshwater mussels`, `freshwater snails`, and `crayfishes`. This means the exclusion of other potential freshwater species (salamanders, snails, shrimps etc.) that weren't put in a clear freshwater category. I decided to limit my research to freshwater species alone because the species and ecosystems are significantly different from saltwater and terrestrial species and because of the unique challenges facing this particular kind of ecosystem. 
 
 **What is the southeast?**
+
 I started the project looking at Alabama and expanding the research to nearby states like Mississippi and Florida. I decided to limit the research and data analysis to one region in the country to have a more comparable group of states when it comes to type of nature, species that live there etc. I settled on the Fish and Wildlife Services' Southeastern region (region 4) which includes: Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina and Tennessee.
 
 However, there are still vast differences between these states when it comes to the number of species occuring there, the rates of endimism, the amount of remaining nature, the share of wild land protected, etc. 
 
 **How to rank species?**
+
 - Using the highest S rank (contrary to G rank or normal s rank)
 
 
 **Things we and science still don't know**
+
 - Still listing species
 - how updated is the data
