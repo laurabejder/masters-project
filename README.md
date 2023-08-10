@@ -9,9 +9,9 @@ The result is the article
 The file `index.html` contains the html code for the full webpage linked above.
 
 #### Notebooks
-- `dam-analysis.ipynb`:
-- `species-analysis.ipynb`:
-- `state-level-analysis.ipynb`:
+- `dam-analysis.ipynb`: This notebook contains an analysis of the size, ownership and age of the dams in the Southeast.
+- `species-analysis.ipynb`: This notebook contains the majority of the projects data analysis including grouping by states, species and endangerment.
+- `state-level-analysis.ipynb`: This notebook allows you to run analysis on the data from the state organizations.
 
 #### The `data` directory
 All the data files that are needed to replicate the analysis in the notebooks. The data comes from [Natureserve](https://explorer.natureserve.org/), the [US Fish and Wildlife Services](https://www.fws.gov/species/search) and the [National Inventory of Dams](https://nid.sec.usace.army.mil/#/). It also includes data directly from the state organizations in Alabama, Georgia and Tennessee that monitor species' endangerment.
